@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rubencho78
-- 👀 I’m interested in learning what the hell is this👀
+- 👀 I’m interested in learning what the hell is this👀 (VCS)
 - 🌱 I’m currently learning how to use FISHNET for stockfish14
 - 💞️ I’m looking to collaborate on lichess analysis
 
